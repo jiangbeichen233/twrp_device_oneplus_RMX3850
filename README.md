@@ -1,4 +1,4 @@
-# Android device tree for oplus RMX3850 (RMX3850)
+# Android device tree for oplus ossi (ossi)
 
 ```
 #
